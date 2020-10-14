@@ -1,0 +1,88 @@
+Polynomial 1 given
+3x^2+5x+6
+
+Polynomial 1 simplified
+3x^2+5x+6
+
+Polynomial 2 given
+6x+8x+3x
+
+Polynomial 2 simplified
+17x
+
+Polynomial 1 + Polynomial 2
+3x^2+22x+6
+
+Polynomial 1 - Polynomial 2
+3x^2-12x+6
+
+Polynomial 1 * Polynomial 2
+51x^3+85x^2+102x
+
+
+Polynomial 1 given
+2x^3+x+3x^2
+
+Polynomial 1 simplified
+2x^3+3x^2+x
+
+Polynomial 2 given
+x^2+3x+5x^2
+
+Polynomial 2 simplified
+6x^2+3x
+
+Polynomial 1 + Polynomial 2
+2x^3+9x^2
+
+Polynomial 1 - Polynomial 2
+2x^3-3x^2
+
+Polynomial 1 * Polynomial 2
+12x^5+24x^4+15x^3+3x^2
+
+
+Polynomial 1 given
+2x^4+x^2
+
+Polynomial 1 simplified
+2x^4+x^2
+
+Polynomial 2 given
+x^2
+
+Polynomial 2 simplified
+x^2
+
+Polynomial 1 + Polynomial 2
+2x^4+2x^2
+
+Polynomial 1 - Polynomial 2
+2x^4
+
+Polynomial 1 * Polynomial 2
+2x^6+x^4
+
+
+Polynomial 1 given
+3x^2+5x^3
+
+Polynomial 1 simplified
+5x^3+3x^2
+
+Polynomial 2 given
+2x+x+3x^2
+
+Polynomial 2 simplified
+3x^2+3x
+
+Polynomial 1 + Polynomial 2
+5x^3+6x^2
+
+Polynomial 1 - Polynomial 2
+5x^3
+
+Polynomial 1 * Polynomial 2
+15x^5+24x^4+9x^3
+
+
